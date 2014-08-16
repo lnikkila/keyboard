@@ -3,8 +3,8 @@ Custom US Keyboard Layout
 
 OS X’s US keyboard layout modified to suit my tastes.
 
-What’s changed
---------------
+What’s different
+----------------
 
 It’s easier to type umlauted characters like Ä and Ö.
 
