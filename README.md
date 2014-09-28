@@ -13,11 +13,11 @@ Additionally the key combinations for ” and ‘ have been switched around.
 New mappings
 ------------
 
-Key combination                                 | Result
------------------------------------------------ | ------
-<kbd>Option</kbd>+<kbd>A</kbd>                  |  ä
-<kbd>Option</kbd>+<kbd>Shift</kbd>+<kbd>A</kbd> |  Ä
-<kbd>Option</kbd>+<kbd>O</kbd>                  |  ö
-<kbd>Option</kbd>+<kbd>Shift</kbd>+<kbd>O</kbd> |  Ö
-<kbd>Option</kbd>+<kbd>]</kbd>                  |  ”
-<kbd>Option</kbd>+<kbd>Shift</kbd>+<kbd>[</kbd> |  ‘
+Key combination | Result
+--------------- | ------
+⌥A              |  ä
+⌥⇧A             |  Ä
+⌥O              |  ö
+⌥⇧O             |  Ö
+⌥]              |  ”
+⌥⇧[             |  ‘
