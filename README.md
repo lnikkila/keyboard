@@ -6,18 +6,28 @@ OS X’s US keyboard layout modified to suit my tastes.
 What’s different
 ----------------
 
-It’s easier to type umlauted characters like Ä and Ö.
+- It’s easier to type Ä and Ö. Fellow Finns — you’re welcome.
 
-Additionally the key combinations for ” and ‘ have been switched around.
+- The mappings for curly quotes have been changed so that they make more
+  sense.
 
-New mappings
-------------
+- The ability to type a non-breaking space using ⌥ Space has been removed.
+  Accidentally typing one in your code is amazingly annoying to debug! Now it
+  just types a regular space.
+
+Modified mappings
+-----------------
 
 Key combination | Result
 --------------- | ------
-⌥A              |  ä
-⌥⇧A             |  Ä
-⌥O              |  ö
-⌥⇧O             |  Ö
-⌥]              |  ”
-⌥⇧[             |  ‘
+⌥A              | ä
+⇧⌥A             | Ä
+⇪⌥A             | Ä
+⌥O              | ö
+⇧⌥O             | Ö
+⇪⌥O             | Ö
+⌥[              | ‘
+⌥]              | ’
+⇧⌥[             | “
+⇧⌥]             | ”
+⌥ Space         | `U+0020`
