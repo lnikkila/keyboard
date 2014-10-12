@@ -410,10 +410,10 @@
             <key code="27" output="–"/>
             <key code="28" output="•"/>
             <key code="29" output="º"/>
-            <key code="30" output="”"/>
+            <key code="30" output="’"/>
             <key code="31" output="ö"/>
             <key code="32" action="3"/>
-            <key code="33" output="“"/>
+            <key code="33" output="‘"/>
             <key code="34" action="2"/>
             <key code="35" output="π"/>
             <key code="36" output="&#x000D;"/>
@@ -522,10 +522,10 @@
             <key code="27" output="—"/>
             <key code="28" output="°"/>
             <key code="29" output="‚"/>
-            <key code="30" output="’"/>
+            <key code="30" output="”"/>
             <key code="31" output="Ö"/>
             <key code="32" output="¨"/>
-            <key code="33" output="‘"/>
+            <key code="33" output="“"/>
             <key code="34" output="ˆ"/>
             <key code="35" output="∏"/>
             <key code="36" output="&#x000D;"/>
