@@ -604,7 +604,7 @@
             <key code="126" output="&#x001E;"/>
         </keyMap>
         <keyMap index="5">
-            <key code="0" output="Å"/>
+            <key code="0" output="Ä"/>
             <key code="1" output="Í"/>
             <key code="2" output="Î"/>
             <key code="3" output="Ï"/>
@@ -635,7 +635,7 @@
             <key code="28" output="•"/>
             <key code="29" output="º"/>
             <key code="30" output="‘"/>
-            <key code="31" output="Ø"/>
+            <key code="31" output="Ö"/>
             <key code="32" output="¨"/>
             <key code="33" output="“"/>
             <key code="34" output="ˆ"/>
