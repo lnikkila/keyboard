@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--https://github.com/lnikkila/custom-us-keyboard-->
+<!--https://github.com/lnikkila/keyboard-->
 <keyboard group="0" id="10533" name="U.S. - Custom" maxout="1">
     <layouts>
         <layout first="0" last="17" modifiers="f4" mapSet="16c"/>
